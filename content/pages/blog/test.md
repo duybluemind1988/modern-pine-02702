@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: DNN test
 subtitle: lorem-ipsum
 date: '2021-04-10'
 thumb_image_alt: lorem-ipsum
